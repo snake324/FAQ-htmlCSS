@@ -1,0 +1,43 @@
+.menu{
+    position: fixed;
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 10px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.front{
+    display: inline-block;
+    padding: 5px;
+    background-color: rgb(235, 233, 233);
+    border: 1px solid grey;
+}
+
+.link{
+    color:rgb(94, 94, 199);
+}
+
+.text{
+    margin-left: 300px;
+}
+
+li{
+    color:rgb(94, 94, 199);
+    text-decoration: underline;
+}
+
+.modulos li{
+    color:rgb(94, 94, 199);
+    list-style-type: none;
+    margin-left: -20px;
+    
+}
+
